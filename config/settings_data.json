@@ -132,7 +132,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Információk",
-              "menu": "footer"
+              "menu": ""
             }
           },
           "footer-1": {
@@ -146,7 +146,7 @@
             "type": "text",
             "settings": {
               "heading": "Kapcsolat",
-              "subtext": "<p>1107 Budapest, Ceglédi u. 1-3.<\/p><p>+36 1 510 0131<\/p><p>info@xcentre.hu<\/p>"
+              "subtext": "<p>1107 Budapest, Ceglédi u. 1-3.<\/p><p>+36 1 510 0131<\/p><p>info@roborockshop.hu<\/p>"
             }
           }
         },

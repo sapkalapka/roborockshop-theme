@@ -113,7 +113,7 @@
         "decrease": "{{ product }} mennyiségének csökkentése"
       },
       "price": {
-        "from_price_html": "Legalacsonyabb ár: {{ price }}",
+        "from_price_html": "{{ price }}-tól",
         "regular_price": "Normál ár",
         "sale_price": "Akciós ár",
         "unit_price": "Egységár"

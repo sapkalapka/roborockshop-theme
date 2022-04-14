@@ -3,82 +3,33 @@
     "1649067947fa15d31c": {
       "type": "image-banner",
       "blocks": {
-        "dbc92dcd-a6ec-4ab1-b11a-92ec5d242043": {
-          "type": "text",
+        "5f6765c0-22f6-4fb0-b521-0a4b49b40c8f": {
+          "type": "buttons",
           "settings": {
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce luctus sit amet arcu ac accumsan. Integer at nisl enim. Maecenas faucibus aliquet turpis, in iaculis metus vestibulum vitae.",
-            "text_style": "body"
+            "button_label_1": "Megnézem",
+            "button_link_1": "shopify:\/\/collections\/frontpage",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "dbc92dcd-a6ec-4ab1-b11a-92ec5d242043"
+        "5f6765c0-22f6-4fb0-b521-0a4b49b40c8f"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/macbook-air-on-desk.jpg",
-        "image_overlay_opacity": 70,
+        "image": "shopify:\/\/shop_images\/H7-banner.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "164906845909089860": {
-      "type": "multicolumn",
-      "blocks": {
-        "164906845954cdc97a-0": {
-          "type": "column",
-          "settings": {
-            "title": "Lorem ipsum",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce luctus sit amet arcu ac accumsan. Integer at nisl enim. Maecenas faucibus aliquet turpis, in iaculis metus vestibulum vitae.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "164906845954cdc97a-1": {
-          "type": "column",
-          "settings": {
-            "title": "Lorem ipsum",
-            "text": "<p>Vivamus id lacus nec lacus posuere iaculis. Praesent at diam risus. Proin a justo ut tortor ultrices laoreet et sed velit. Vivamus elit orci, pharetra in lectus vel, semper tempor nibh. Curabitur non pellentesque ex, fringilla auctor augue.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "164906845954cdc97a-2": {
-          "type": "column",
-          "settings": {
-            "title": "Lorem ipsum",
-            "text": "<p>Nam hendrerit tortor quis ante pretium condimentum. Nullam quis ligula id est congue ultricies. Sed quis risus eu velit imperdiet efficitur quis vitae leo. Etiam justo libero, lacinia nec accumsan sed, ultricies in enim. Interdum et malesuada fames ac ante ipsum primis in faucibus.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "164906845954cdc97a-0",
-        "164906845954cdc97a-1",
-        "164906845954cdc97a-2"
-      ],
-      "settings": {
-        "title": "Érdekességek",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "show_text_below": false
       }
     },
     "16490751309813471c": {
@@ -124,7 +75,6 @@
   },
   "order": [
     "1649067947fa15d31c",
-    "164906845909089860",
     "16490751309813471c"
   ]
 }

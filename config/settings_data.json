@@ -132,7 +132,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Információk",
-              "menu": ""
+              "menu": "footer-menu-informations"
             }
           },
           "footer-1": {

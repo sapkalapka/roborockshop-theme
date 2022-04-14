@@ -20,6 +20,8 @@
 
 .price .price-item {
   margin: 0 1rem 0 0;
+}
+.price-item--sale{
   font-weight:700;
 }
 

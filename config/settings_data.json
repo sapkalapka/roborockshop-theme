@@ -141,19 +141,11 @@
               "heading": "Kapcsolat",
               "subtext": "<p>1107 Budapest, Ceglédi u. 1-3.<\/p><p>+36 1 510 0131<\/p><p>info@roborockshop.hu<\/p>"
             }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Fiókom",
-              "menu": "footer-menu-account"
-            }
           }
         },
         "block_order": [
           "footer-0",
-          "8b730211-e80c-45af-9878-dd57bf8a772b",
-          "footer-1"
+          "8b730211-e80c-45af-9878-dd57bf8a772b"
         ],
         "settings": {
           "color_scheme": "accent-2",

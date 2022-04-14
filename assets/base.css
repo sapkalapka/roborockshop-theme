@@ -2609,10 +2609,10 @@ details[open] > .header__submenu {
 .header__menu-item {
   text-decoration: none;
   padding: 1.2rem;
-  color: rgba(var(--color-foreground), 0.7);
+  color: rgba(var(--color-foreground), 1);
 }
 .header__menu-item:hover {
-  color: rgba(var(--color-foreground), 1);
+  color: rgba(var(--color-foreground), 0.7);
 }
 
 .header__menu-item span {

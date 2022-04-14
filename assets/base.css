@@ -2609,8 +2609,8 @@ details[open] > .header__submenu {
 .header__menu-item {
   text-decoration: none;
   padding: 1.2rem;
-  color: rgba(var(--color-foreground), 1);
-    font-size:1.5rem;
+  color: rgba(var(106,106,106), 1);
+  font-weight:700;
 }
 .header__menu-item:hover {
   color: rgba(var(--color-foreground), 0.7);

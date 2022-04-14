@@ -23,6 +23,7 @@
 }
 
 .price__regular .price-item--regular {
+  font-weight:700;
   margin-right: 0;
 }
 

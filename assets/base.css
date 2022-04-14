@@ -2610,6 +2610,7 @@ details[open] > .header__submenu {
   text-decoration: none;
   padding: 1.2rem;
   color: rgba(var(--color-foreground), 1);
+    font-size:1.5rem;
 }
 .header__menu-item:hover {
   color: rgba(var(--color-foreground), 0.7);

@@ -28,7 +28,6 @@
 
 .price__regular .price-item--regular {
   font-weight:700;
-  color: rgb(var(--color-base-accent-1));
   margin-right: 0;
 }
 

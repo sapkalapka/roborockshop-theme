@@ -95,9 +95,9 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "favicon": "shopify://shop_images/favicon.png",
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
     "currency_code_enabled": true,
-    "checkout_logo_image": "shopify://shop_images/favicon.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/favicon.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#f3f3f3",
@@ -108,13 +108,14 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "settings": {}
+        "settings": {
+        }
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify://shop_images/roborockshop-logo-web.png",
+          "logo": "shopify:\/\/shop_images\/roborockshop-logo-web.png",
           "logo_width": 150,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -138,11 +139,14 @@
             "type": "text",
             "settings": {
               "heading": "Kapcsolat",
-              "subtext": "<p>1107 Budapest, Ceglédi u. 1-3.</p><p>+36 1 510 0131</p><p>info@xcentre.hu</p>"
+              "subtext": "<p>1107 Budapest, Ceglédi u. 1-3.<\/p><p>+36 1 510 0131<\/p><p>info@roborockshop.hu<\/p>"
             }
           }
         },
-        "block_order": ["footer-0", "8b730211-e80c-45af-9878-dd57bf8a772b"],
+        "block_order": [
+          "footer-0",
+          "8b730211-e80c-45af-9878-dd57bf8a772b"
+        ],
         "settings": {
           "color_scheme": "accent-2",
           "newsletter_enable": true,
@@ -170,7 +174,9 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
@@ -283,8 +289,11 @@
               }
             }
           },
-          "block_order": ["announcement-bar-0"],
-          "settings": {}
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
         },
         "header": {
           "type": "header",
@@ -319,11 +328,15 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
               }
             }
           },
-          "block_order": ["footer-0", "footer-1", "footer-2"],
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
           "settings": {
             "color_scheme": "background-1",
             "newsletter_enable": true,

@@ -7,7 +7,7 @@
 }
 
 .footer__content-top {
-  padding-bottom: 5rem;
+  padding-bottom: 3rem;
   display: block;
 }
 
@@ -42,7 +42,7 @@
 
 .footer__content-bottom {
   border-top: solid 0.1rem rgba(var(--color-foreground), 0.08);
-  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .footer__content-bottom:only-child {
@@ -392,9 +392,9 @@ noscript .localization-selector.link {
 .footer-block__details-content {
   margin-bottom: 4rem;
 }
-.footer-block__details-content p{
-margin:0;
-  font-size:1.4rem;
+.footer-block__details-content p {
+  margin: 0;
+  font-size: 1.4rem;
 }
 
 @media screen and (min-width: 750px) {
